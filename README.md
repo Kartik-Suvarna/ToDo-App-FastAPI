@@ -8,4 +8,6 @@ and run ```pip install -r requirements.txt```
 Then run the command  ```uvicorn app:app --reload``` 
 It will run on your localhost
 
+### To record logs
+Execute the command ```python -m uvicorn app:app --log-config ${PATH-_to_log.ini}```
 ### Thank You 👋👋👋

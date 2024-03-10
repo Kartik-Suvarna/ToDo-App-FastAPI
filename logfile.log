@@ -1,0 +1,4 @@
+[2024-03-10 15:09:34,052.052] INFO [139792831419008] - Shutting down
+[2024-03-10 15:09:34,152.152] INFO [139792831419008] - Waiting for application shutdown.
+[2024-03-10 15:09:34,152.152] INFO [139792831419008] - Application shutdown complete.
+[2024-03-10 15:09:34,153.153] INFO [139792831419008] - Finished server process [20101]
